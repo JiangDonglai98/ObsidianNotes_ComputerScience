@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ProgrammingLanguage/Python/grammar/Python Dict implimentation.md",
+            "file": "ProgrammingLanguage/Python/grammar/Python Dict implementation.md",
             "mode": "preview",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProgrammingLanguage/Python/grammar/Python Dict implimentation.md",
+                "file": "ProgrammingLanguage/Python/grammar/Python Dict implementation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProgrammingLanguage/Python/grammar/Python Dict implimentation.md",
+                "file": "ProgrammingLanguage/Python/grammar/Python Dict implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProgrammingLanguage/Python/grammar/Python Dict implimentation.md"
+                "file": "ProgrammingLanguage/Python/grammar/Python Dict implementation.md"
               }
             }
           }
@@ -130,7 +130,7 @@
   },
   "active": "cdc5a857b005ed9e",
   "lastOpenFiles": [
-    "ProgrammingLanguage/Python/grammar/Python Dict implimentation.md",
+    "ProgrammingLanguage/Python/grammar/Python Dict implementation.md",
     "ProgrammingLanguage/Python/未命名.md"
   ]
 }
