@@ -7,8 +7,12 @@
         "id": "a5f1372b5526fb39",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "ProgrammingLanguage/Python/grammar/Python Dict implementation.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ProgrammingLanguage/Python/grammar/Python Dict implementation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ProgrammingLanguage/Python/grammar/Python Dict implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ProgrammingLanguage/Python/grammar/Python Dict implementation.md"
+              }
             }
           },
           {
@@ -121,8 +129,8 @@
   },
   "active": "a5f1372b5526fb39",
   "lastOpenFiles": [
-    "00 inbox/Hello World.md",
     "ProgrammingLanguage/Python/grammar/Python Dict implementation.md",
+    "00 inbox/Hello World.md",
     "2022-06-16.md",
     "ProgrammingLanguage/Python/未命名.md"
   ]
