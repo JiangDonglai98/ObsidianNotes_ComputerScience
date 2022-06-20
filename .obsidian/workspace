@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cdc5a857b005ed9e",
+        "id": "a5f1372b5526fb39",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ProgrammingLanguage/Python/grammar/Python Dict implementation.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProgrammingLanguage/Python/grammar/Python Dict implementation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -94,20 +89,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProgrammingLanguage/Python/grammar/Python Dict implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "96373ee1de787615",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           },
@@ -116,8 +99,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "da2b10f3beda5b63",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
               "state": {
-                "file": "ProgrammingLanguage/Python/grammar/Python Dict implementation.md"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -125,12 +117,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "cdc5a857b005ed9e",
+  "active": "a5f1372b5526fb39",
   "lastOpenFiles": [
+    "00 inbox/Hello World.md",
     "ProgrammingLanguage/Python/grammar/Python Dict implementation.md",
+    "2022-06-16.md",
     "ProgrammingLanguage/Python/未命名.md"
   ]
 }

@@ -63,7 +63,7 @@ class CustomerDict(object):
             elif data_index == -2:  
                 index = self._get_next(index)  
                 continue  
-  
+  ``
             _, new_key, default_value = self._data_array[data_index]  
             # 判断是不是对应的key  
             if key != new_key:  

@@ -1,4 +1,9 @@
 {
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "promptDelete": true,
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 inbox",
+  "attachmentFolderPath": "attachment"
 }
